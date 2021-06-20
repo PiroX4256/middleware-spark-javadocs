@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.polimi.middlewaretechfordistsys.model"},{"l":"it.polimi.middlewaretechfordistsys.utils"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.polimi.middlewaretechfordistsys"},{"l":"it.polimi.middlewaretechfordistsys.model"},{"l":"it.polimi.middlewaretechfordistsys.utils"}];updateSearchResults();
